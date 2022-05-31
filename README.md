@@ -1,1 +1,1 @@
-# House price prediction model using scikir learn
+# House price prediction model using scikit learn
